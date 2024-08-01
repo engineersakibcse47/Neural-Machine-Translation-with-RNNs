@@ -66,7 +66,8 @@ seq2seq_gru.compile(
 
 ## Results and Evaluation
 The model's performance is evaluated using various metrics such as accuracy. Visualizations of the training process and results are provided using TensorBoard and other plotting libraries.
-<img src="https://github.com/user-attachments/assets/14b616fc-bf92-41d4-abec-70180188d08f" alt="image" width="400" style="display: block; margin-left: 0;">
+
+<img src="https://github.com/user-attachments/assets/14b616fc-bf92-41d4-abec-70180188d08f" alt="image" width="300" style="display: block; margin-left: 0;">
 
 ## Conclusion
 This project demonstrates the effectiveness of RNN-based architectures for neural machine translation. Further improvements can be made by experimenting with different model architectures, hyperparameters, and data augmentation techniques.
