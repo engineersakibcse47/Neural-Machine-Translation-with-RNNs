@@ -1,7 +1,7 @@
-# Neural Machine Translation with RNNs(Seq2Seq)
+# Neural Machine Translation with RNNs(Seq2Seq) - Encoder Decoder
 
 ## Introduction
-This project focuses on developing a neural machine translation (NMT) model using Recurrent Neural Networks (RNNs) to translate text from French to English. The model leverages various machine learning and natural language processing techniques.
+This project focuses on developing a neural machine translation (NMT) model using Recurrent Neural Networks (RNNs) to translate text from English to French. The model leverages various machine learning and natural language processing techniques.
 
 ## Data Extraction and Preprocessing
 1. **Extract the downloaded zip file** to obtain the sentence pairs.
