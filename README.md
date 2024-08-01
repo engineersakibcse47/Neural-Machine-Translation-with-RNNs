@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Data Preprocessing](#data-preproessing)
+- [Data Preprocessing](#data-preprocessing)
 - [Neural Network Architecture](#neural-network-architecture)
 - [Training the Model](#training-the-model)
 - [Results and Evaluation](#results-and-evaluation)
